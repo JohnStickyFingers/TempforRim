@@ -1,0 +1,407 @@
+RimWorld 1.4.3704 rev896
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Message (string)
+RimWorld.VersionControl:LogVersionNumber ()
+Verse.Root:CheckGlobalInit ()
+Verse.Root:Start ()
+Verse.Root_Entry:Start ()
+
+MVCF successfully applied 0 patches
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Message (string)
+MVCF.Patch:PrintSummary ()
+MVCF.MVCF/<>c:<CollectFeatureData>b__16_0 ()
+Verse.LongEventHandler:ExecuteToExecuteWhenFinished ()
+Verse.LongEventHandler:UpdateCurrentAsynchronousEvent ()
+Verse.LongEventHandler:LongEventsUpdate (bool&)
+Verse.Root:Update ()
+Verse.Root_Entry:Update ()
+
+CharacterEditor v1.4.1242 initializing...
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Message (string)
+CharacterEditor.CEditor:.ctor ()
+CharacterEditor.CEditor:OnMainMenuInit ()
+(wrapper dynamic-method) RimWorld.MainMenuDrawer:RimWorld.MainMenuDrawer.Init_Patch1 ()
+Verse.UIRoot_Entry:Init ()
+Verse.Root:<Start>b__6_0 ()
+Verse.LongEventHandler:UpdateCurrentSynchronousEvent (bool&)
+Verse.LongEventHandler:LongEventsUpdate (bool&)
+Verse.Root:Update ()
+Verse.Root_Entry:Update ()
+
+updating labels for english...
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Message (string)
+CharacterEditor.Label:UpdateLabels ()
+CharacterEditor.CEditor/ModOptions:ReInit ()
+CharacterEditor.CEditor/ModOptions:.ctor ()
+CharacterEditor.CEditor/ModData:CreateType (CharacterEditor.EType)
+CharacterEditor.CEditor/ModData:Get<CharacterEditor.CEditor/ModOptions> (CharacterEditor.EType)
+CharacterEditor.CEditor/ModData:.ctor ()
+CharacterEditor.CEditor:.ctor ()
+CharacterEditor.CEditor:OnMainMenuInit ()
+(wrapper dynamic-method) RimWorld.MainMenuDrawer:RimWorld.MainMenuDrawer.Init_Patch1 ()
+Verse.UIRoot_Entry:Init ()
+Verse.Root:<Start>b__6_0 ()
+Verse.LongEventHandler:UpdateCurrentSynchronousEvent (bool&)
+Verse.LongEventHandler:LongEventsUpdate (bool&)
+Verse.Root:Update ()
+Verse.Root_Entry:Update ()
+
+loading pawn slot content from file...
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Message (string)
+CharacterEditor.CEditor/ModOptions:LoadSlots (string)
+CharacterEditor.CEditor/ModOptions:ReInit ()
+CharacterEditor.CEditor/ModOptions:.ctor ()
+CharacterEditor.CEditor/ModData:CreateType (CharacterEditor.EType)
+CharacterEditor.CEditor/ModData:Get<CharacterEditor.CEditor/ModOptions> (CharacterEditor.EType)
+CharacterEditor.CEditor/ModData:.ctor ()
+CharacterEditor.CEditor:.ctor ()
+CharacterEditor.CEditor:OnMainMenuInit ()
+(wrapper dynamic-method) RimWorld.MainMenuDrawer:RimWorld.MainMenuDrawer.Init_Patch1 ()
+Verse.UIRoot_Entry:Init ()
+Verse.Root:<Start>b__6_0 ()
+Verse.LongEventHandler:UpdateCurrentSynchronousEvent (bool&)
+Verse.LongEventHandler:LongEventsUpdate (bool&)
+Verse.Root:Update ()
+Verse.Root_Entry:Update ()
+
+character editor instance created
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Message (string)
+CharacterEditor.CEditor:.ctor ()
+CharacterEditor.CEditor:OnMainMenuInit ()
+(wrapper dynamic-method) RimWorld.MainMenuDrawer:RimWorld.MainMenuDrawer.Init_Patch1 ()
+Verse.UIRoot_Entry:Init ()
+Verse.Root:<Start>b__6_0 ()
+Verse.LongEventHandler:UpdateCurrentSynchronousEvent (bool&)
+Verse.LongEventHandler:LongEventsUpdate (bool&)
+Verse.Root:Update ()
+Verse.Root_Entry:Update ()
+
+checking editor settings...
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Message (string)
+CharacterEditor.CEditor/ModData:OnSettingsChanged (bool,bool)
+CharacterEditor.CEditor:OnSettingsChanged (bool,bool)
+CharacterEditor.CEditor:OnMainMenuInit ()
+(wrapper dynamic-method) RimWorld.MainMenuDrawer:RimWorld.MainMenuDrawer.Init_Patch1 ()
+Verse.UIRoot_Entry:Init ()
+Verse.Root:<Start>b__6_0 ()
+Verse.LongEventHandler:UpdateCurrentSynchronousEvent (bool&)
+Verse.LongEventHandler:LongEventsUpdate (bool&)
+Verse.Root:Update ()
+Verse.Root_Entry:Update ()
+
+removing bodysize genes done
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Message (string)
+CharacterEditor.GeneTool:EnDisableBodySizeGenes ()
+CharacterEditor.CEditor/ModData:OnSettingsChanged (bool,bool)
+CharacterEditor.CEditor:OnSettingsChanged (bool,bool)
+CharacterEditor.CEditor:OnMainMenuInit ()
+(wrapper dynamic-method) RimWorld.MainMenuDrawer:RimWorld.MainMenuDrawer.Init_Patch1 ()
+Verse.UIRoot_Entry:Init ()
+Verse.Root:<Start>b__6_0 ()
+Verse.LongEventHandler:UpdateCurrentSynchronousEvent (bool&)
+Verse.LongEventHandler:LongEventsUpdate (bool&)
+Verse.Root:Update ()
+Verse.Root_Entry:Update ()
+
+CharacterEditor v1.4.1242 ...done
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Message (string)
+CharacterEditor.CEditor:OnMainMenuInit ()
+(wrapper dynamic-method) RimWorld.MainMenuDrawer:RimWorld.MainMenuDrawer.Init_Patch1 ()
+Verse.UIRoot_Entry:Init ()
+Verse.Root:<Start>b__6_0 ()
+Verse.LongEventHandler:UpdateCurrentSynchronousEvent (bool&)
+Verse.LongEventHandler:LongEventsUpdate (bool&)
+Verse.Root:Update ()
+Verse.Root_Entry:Update ()
+
+CE is trying to create default parameter lists ...
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Message (string)
+CharacterEditor.CEditor/ModOptions:CreateDefaultLists ()
+CharacterEditor.CEditor:OnMainMenuOnGUI ()
+(wrapper dynamic-method) RimWorld.MainMenuDrawer:RimWorld.MainMenuDrawer.MainMenuOnGUI_Patch1 ()
+(wrapper dynamic-method) Verse.UIRoot_Entry:Verse.UIRoot_Entry.DoMainMenu_Patch1 (Verse.UIRoot_Entry)
+Verse.UIRoot_Entry:UIRootOnGUI ()
+Verse.Root:OnGUI ()
+
+creating default parameter list for genes...
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Message (string)
+CharacterEditor.CEditor/ModData:CreateType (CharacterEditor.EType)
+CharacterEditor.CEditor/ModData:Get<System.Collections.Generic.Dictionary`2<string, CharacterEditor.PresetGene>> (CharacterEditor.EType)
+CharacterEditor.CEditor:Get<System.Collections.Generic.Dictionary`2<string, CharacterEditor.PresetGene>> (CharacterEditor.EType)
+CharacterEditor.CEditor/ModOptions:CreateDefaultLists ()
+CharacterEditor.CEditor:OnMainMenuOnGUI ()
+(wrapper dynamic-method) RimWorld.MainMenuDrawer:RimWorld.MainMenuDrawer.MainMenuOnGUI_Patch1 ()
+(wrapper dynamic-method) Verse.UIRoot_Entry:Verse.UIRoot_Entry.DoMainMenu_Patch1 (Verse.UIRoot_Entry)
+Verse.UIRoot_Entry:UIRootOnGUI ()
+Verse.Root:OnGUI ()
+
+267 default entities for genes created
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Message (string)
+CharacterEditor.Preset:CreateDefaults<CharacterEditor.PresetGene, Verse.GeneDef> (System.Collections.Generic.HashSet`1<Verse.GeneDef>,System.Func`2<Verse.GeneDef, string>,System.Func`2<Verse.GeneDef, CharacterEditor.PresetGene>,string)
+CharacterEditor.PresetGene:CreateDefaults ()
+CharacterEditor.CEditor/ModData:CreateType (CharacterEditor.EType)
+CharacterEditor.CEditor/ModData:Get<System.Collections.Generic.Dictionary`2<string, CharacterEditor.PresetGene>> (CharacterEditor.EType)
+CharacterEditor.CEditor:Get<System.Collections.Generic.Dictionary`2<string, CharacterEditor.PresetGene>> (CharacterEditor.EType)
+CharacterEditor.CEditor/ModOptions:CreateDefaultLists ()
+CharacterEditor.CEditor:OnMainMenuOnGUI ()
+(wrapper dynamic-method) RimWorld.MainMenuDrawer:RimWorld.MainMenuDrawer.MainMenuOnGUI_Patch1 ()
+(wrapper dynamic-method) Verse.UIRoot_Entry:Verse.UIRoot_Entry.DoMainMenu_Patch1 (Verse.UIRoot_Entry)
+Verse.UIRoot_Entry:UIRootOnGUI ()
+Verse.Root:OnGUI ()
+
+creating default parameter list for objects...
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Message (string)
+CharacterEditor.CEditor/ModData:CreateType (CharacterEditor.EType)
+CharacterEditor.CEditor/ModData:Get<System.Collections.Generic.Dictionary`2<string, CharacterEditor.PresetObject>> (CharacterEditor.EType)
+CharacterEditor.CEditor:Get<System.Collections.Generic.Dictionary`2<string, CharacterEditor.PresetObject>> (CharacterEditor.EType)
+CharacterEditor.CEditor/ModOptions:CreateDefaultLists ()
+CharacterEditor.CEditor:OnMainMenuOnGUI ()
+(wrapper dynamic-method) RimWorld.MainMenuDrawer:RimWorld.MainMenuDrawer.MainMenuOnGUI_Patch1 ()
+(wrapper dynamic-method) Verse.UIRoot_Entry:Verse.UIRoot_Entry.DoMainMenu_Patch1 (Verse.UIRoot_Entry)
+Verse.UIRoot_Entry:UIRootOnGUI ()
+Verse.Root:OnGUI ()
+
+1111 default entities for objects created
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Message (string)
+CharacterEditor.Preset:CreateDefaults<CharacterEditor.PresetObject, Verse.ThingDef> (System.Collections.Generic.HashSet`1<Verse.ThingDef>,System.Func`2<Verse.ThingDef, string>,System.Func`2<Verse.ThingDef, CharacterEditor.PresetObject>,string)
+CharacterEditor.PresetObject:CreateDefaultObjects ()
+CharacterEditor.CEditor/ModData:CreateType (CharacterEditor.EType)
+CharacterEditor.CEditor/ModData:Get<System.Collections.Generic.Dictionary`2<string, CharacterEditor.PresetObject>> (CharacterEditor.EType)
+CharacterEditor.CEditor:Get<System.Collections.Generic.Dictionary`2<string, CharacterEditor.PresetObject>> (CharacterEditor.EType)
+CharacterEditor.CEditor/ModOptions:CreateDefaultLists ()
+CharacterEditor.CEditor:OnMainMenuOnGUI ()
+(wrapper dynamic-method) RimWorld.MainMenuDrawer:RimWorld.MainMenuDrawer.MainMenuOnGUI_Patch1 ()
+(wrapper dynamic-method) Verse.UIRoot_Entry:Verse.UIRoot_Entry.DoMainMenu_Patch1 (Verse.UIRoot_Entry)
+Verse.UIRoot_Entry:UIRootOnGUI ()
+Verse.Root:OnGUI ()
+
+creating default parameter list for turrets...
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Message (string)
+CharacterEditor.CEditor/ModData:CreateType (CharacterEditor.EType)
+CharacterEditor.CEditor/ModData:Get<System.Collections.Generic.Dictionary`2<string, CharacterEditor.PresetObject>> (CharacterEditor.EType)
+CharacterEditor.CEditor:Get<System.Collections.Generic.Dictionary`2<string, CharacterEditor.PresetObject>> (CharacterEditor.EType)
+CharacterEditor.CEditor/ModOptions:CreateDefaultLists ()
+CharacterEditor.CEditor:OnMainMenuOnGUI ()
+(wrapper dynamic-method) RimWorld.MainMenuDrawer:RimWorld.MainMenuDrawer.MainMenuOnGUI_Patch1 ()
+(wrapper dynamic-method) Verse.UIRoot_Entry:Verse.UIRoot_Entry.DoMainMenu_Patch1 (Verse.UIRoot_Entry)
+Verse.UIRoot_Entry:UIRootOnGUI ()
+Verse.Root:OnGUI ()
+
+10 default entities for turrets created
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Message (string)
+CharacterEditor.Preset:CreateDefaults<CharacterEditor.PresetObject, Verse.ThingDef> (System.Collections.Generic.HashSet`1<Verse.ThingDef>,System.Func`2<Verse.ThingDef, string>,System.Func`2<Verse.ThingDef, CharacterEditor.PresetObject>,string)
+CharacterEditor.PresetObject:CreateDefaultTurrets ()
+CharacterEditor.CEditor/ModData:CreateType (CharacterEditor.EType)
+CharacterEditor.CEditor/ModData:Get<System.Collections.Generic.Dictionary`2<string, CharacterEditor.PresetObject>> (CharacterEditor.EType)
+CharacterEditor.CEditor:Get<System.Collections.Generic.Dictionary`2<string, CharacterEditor.PresetObject>> (CharacterEditor.EType)
+CharacterEditor.CEditor/ModOptions:CreateDefaultLists ()
+CharacterEditor.CEditor:OnMainMenuOnGUI ()
+(wrapper dynamic-method) RimWorld.MainMenuDrawer:RimWorld.MainMenuDrawer.MainMenuOnGUI_Patch1 ()
+(wrapper dynamic-method) Verse.UIRoot_Entry:Verse.UIRoot_Entry.DoMainMenu_Patch1 (Verse.UIRoot_Entry)
+Verse.UIRoot_Entry:UIRootOnGUI ()
+Verse.Root:OnGUI ()
+
+...lists created
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Message (string)
+CharacterEditor.CEditor/ModOptions:CreateDefaultLists ()
+CharacterEditor.CEditor:OnMainMenuOnGUI ()
+(wrapper dynamic-method) RimWorld.MainMenuDrawer:RimWorld.MainMenuDrawer.MainMenuOnGUI_Patch1 ()
+(wrapper dynamic-method) Verse.UIRoot_Entry:Verse.UIRoot_Entry.DoMainMenu_Patch1 (Verse.UIRoot_Entry)
+Verse.UIRoot_Entry:UIRootOnGUI ()
+Verse.Root:OnGUI ()
+
+CE is trying to apply modified parameters...
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Message (string)
+CharacterEditor.CEditor/ModOptions:UpdatingCustoms ()
+CharacterEditor.CEditor:OnMainMenuOnGUI ()
+(wrapper dynamic-method) RimWorld.MainMenuDrawer:RimWorld.MainMenuDrawer.MainMenuOnGUI_Patch1 ()
+(wrapper dynamic-method) Verse.UIRoot_Entry:Verse.UIRoot_Entry.DoMainMenu_Patch1 (Verse.UIRoot_Entry)
+Verse.UIRoot_Entry:UIRootOnGUI ()
+Verse.Root:OnGUI ()
+
+no modifications for genes
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Message (string)
+CharacterEditor.Preset:LoadAllModifications (string,System.Action`1<string>,string)
+CharacterEditor.PresetGene:LoadAllModifications (string)
+CharacterEditor.CEditor/ModOptions:UpdatingCustoms ()
+CharacterEditor.CEditor:OnMainMenuOnGUI ()
+(wrapper dynamic-method) RimWorld.MainMenuDrawer:RimWorld.MainMenuDrawer.MainMenuOnGUI_Patch1 ()
+(wrapper dynamic-method) Verse.UIRoot_Entry:Verse.UIRoot_Entry.DoMainMenu_Patch1 (Verse.UIRoot_Entry)
+Verse.UIRoot_Entry:UIRootOnGUI ()
+Verse.Root:OnGUI ()
+
+no modifications for objects
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Message (string)
+CharacterEditor.Preset:LoadAllModifications (string,System.Action`1<string>,string)
+CharacterEditor.PresetObject:LoadAllModifications (string)
+CharacterEditor.CEditor/ModOptions:UpdatingCustoms ()
+CharacterEditor.CEditor:OnMainMenuOnGUI ()
+(wrapper dynamic-method) RimWorld.MainMenuDrawer:RimWorld.MainMenuDrawer.MainMenuOnGUI_Patch1 ()
+(wrapper dynamic-method) Verse.UIRoot_Entry:Verse.UIRoot_Entry.DoMainMenu_Patch1 (Verse.UIRoot_Entry)
+Verse.UIRoot_Entry:UIRootOnGUI ()
+Verse.Root:OnGUI ()
+
+no modifications for lifestages
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Message (string)
+CharacterEditor.Preset:LoadAllModifications (string,System.Action`1<string>,string)
+CharacterEditor.PresetLifeStage:LoadAllModifications (string)
+CharacterEditor.CEditor/ModOptions:UpdatingCustoms ()
+CharacterEditor.CEditor:OnMainMenuOnGUI ()
+(wrapper dynamic-method) RimWorld.MainMenuDrawer:RimWorld.MainMenuDrawer.MainMenuOnGUI_Patch1 ()
+(wrapper dynamic-method) Verse.UIRoot_Entry:Verse.UIRoot_Entry.DoMainMenu_Patch1 (Verse.UIRoot_Entry)
+Verse.UIRoot_Entry:UIRootOnGUI ()
+Verse.Root:OnGUI ()
+
+...done
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Message (string)
+CharacterEditor.CEditor/ModOptions:UpdatingCustoms ()
+CharacterEditor.CEditor:OnMainMenuOnGUI ()
+(wrapper dynamic-method) RimWorld.MainMenuDrawer:RimWorld.MainMenuDrawer.MainMenuOnGUI_Patch1 ()
+(wrapper dynamic-method) Verse.UIRoot_Entry:Verse.UIRoot_Entry.DoMainMenu_Patch1 (Verse.UIRoot_Entry)
+Verse.UIRoot_Entry:UIRootOnGUI ()
+Verse.Root:OnGUI ()
+
+Initializing new game with mods:
+  - brrainz.harmony
+  - Ludeon.RimWorld
+  - Ludeon.RimWorld.Royalty
+  - Ludeon.RimWorld.Ideology
+  - Ludeon.RimWorld.Biotech
+  - OskarPotocki.VanillaFactionsExpanded.Core
+  - ATK.Anthrosonae
+  - void.charactereditor
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Message (string)
+(wrapper dynamic-method) Verse.Game:Verse.Game.InitNewGame_Patch0 (Verse.Game)
+Verse.Root_Play/<>c:<Start>b__1_2 ()
+Verse.LongEventHandler:RunEventFromAnotherThread (System.Action)
+Verse.LongEventHandler/<>c:<UpdateCurrentAsynchronousEvent>b__27_0 ()
+System.Threading.ThreadHelper:ThreadStart_Context (object)
+System.Threading.ExecutionContext:RunInternal (System.Threading.ExecutionContext,System.Threading.ContextCallback,object,bool)
+System.Threading.ExecutionContext:Run (System.Threading.ExecutionContext,System.Threading.ContextCallback,object,bool)
+System.Threading.ExecutionContext:Run (System.Threading.ExecutionContext,System.Threading.ContextCallback,object)
+System.Threading.ThreadHelper:ThreadStart ()
+
+checking editor settings...
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Message (string)
+CharacterEditor.CEditor/ModData:OnSettingsChanged (bool,bool)
+CharacterEditor.CEditor:OnSettingsChanged (bool,bool)
+CharacterEditor.CEditor:OnMapLoaded ()
+(wrapper dynamic-method) Verse.Map:Verse.Map.FinalizeInit_Patch1 (Verse.Map)
+(wrapper dynamic-method) Verse.MapGenerator:Verse.MapGenerator.GenerateMap_Patch1 (Verse.IntVec3,RimWorld.Planet.MapParent,Verse.MapGeneratorDef,System.Collections.Generic.IEnumerable`1<Verse.GenStepWithParams>,System.Action`1<Verse.Map>)
+(wrapper dynamic-method) Verse.Game:Verse.Game.InitNewGame_Patch0 (Verse.Game)
+Verse.Root_Play/<>c:<Start>b__1_2 ()
+Verse.LongEventHandler:RunEventFromAnotherThread (System.Action)
+Verse.LongEventHandler/<>c:<UpdateCurrentAsynchronousEvent>b__27_0 ()
+System.Threading.ThreadHelper:ThreadStart_Context (object)
+System.Threading.ExecutionContext:RunInternal (System.Threading.ExecutionContext,System.Threading.ContextCallback,object,bool)
+System.Threading.ExecutionContext:Run (System.Threading.ExecutionContext,System.Threading.ContextCallback,object,bool)
+System.Threading.ExecutionContext:Run (System.Threading.ExecutionContext,System.Threading.ContextCallback,object)
+System.Threading.ThreadHelper:ThreadStart ()
+
+bodysize genes are inactive
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Message (string)
+CharacterEditor.GeneTool:EnDisableBodySizeGenes ()
+CharacterEditor.CEditor/ModData:OnSettingsChanged (bool,bool)
+CharacterEditor.CEditor:OnSettingsChanged (bool,bool)
+CharacterEditor.CEditor:OnMapLoaded ()
+(wrapper dynamic-method) Verse.Map:Verse.Map.FinalizeInit_Patch1 (Verse.Map)
+(wrapper dynamic-method) Verse.MapGenerator:Verse.MapGenerator.GenerateMap_Patch1 (Verse.IntVec3,RimWorld.Planet.MapParent,Verse.MapGeneratorDef,System.Collections.Generic.IEnumerable`1<Verse.GenStepWithParams>,System.Action`1<Verse.Map>)
+(wrapper dynamic-method) Verse.Game:Verse.Game.InitNewGame_Patch0 (Verse.Game)
+Verse.Root_Play/<>c:<Start>b__1_2 ()
+Verse.LongEventHandler:RunEventFromAnotherThread (System.Action)
+Verse.LongEventHandler/<>c:<UpdateCurrentAsynchronousEvent>b__27_0 ()
+System.Threading.ThreadHelper:ThreadStart_Context (object)
+System.Threading.ExecutionContext:RunInternal (System.Threading.ExecutionContext,System.Threading.ContextCallback,object,bool)
+System.Threading.ExecutionContext:Run (System.Threading.ExecutionContext,System.Threading.ContextCallback,object,bool)
+System.Threading.ExecutionContext:Run (System.Threading.ExecutionContext,System.Threading.ContextCallback,object)
+System.Threading.ThreadHelper:ThreadStart ()
+
+loading icon for custom xenotype anthrobird
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Message (string)
+CharacterEditor.GeneTool:PresetXenoType (Verse.Pawn,string,string,bool,bool)
+CharacterEditor.PresetPawn:GeneratePawn (bool,bool)
+CharacterEditor.PresetPawn:LoadPawn (int,bool,string)
+CharacterEditor.CEditor/EditorUI/BlockPerson/<>c__DisplayClass62_0:<ALoadPawn>b__0 ()
+Verse.FloatMenuOption:Chosen (bool,Verse.FloatMenu)
+Verse.FloatMenuOption:DoGUI (UnityEngine.Rect,bool,Verse.FloatMenu)
+Verse.FloatMenu:DoWindowContents (UnityEngine.Rect)
+Verse.Window:InnerWindowOnGUI (int)
+UnityEngine.GUI:CallWindowDelegate (UnityEngine.GUI/WindowFunction,int,int,UnityEngine.GUISkin,int,single,single,UnityEngine.GUIStyle)
+
+System.NullReferenceException: Object reference not set to an instance of an object
+  at RimWorld.RitualBehaviorWorker.CanStartRitualNow (Verse.TargetInfo target, RimWorld.Precept_Ritual ritual, Verse.Pawn selectedPawn, System.Collections.Generic.Dictionary`2[TKey,TValue] forcedForRole) [0x00156] in <95de19971c5d40878d8742747904cdcd>:0 
+  at RimWorld.Command_Ritual.ValidateDisabledState () [0x00000] in <95de19971c5d40878d8742747904cdcd>:0 
+  at RimWorld.Command_Ritual..ctor (RimWorld.Precept_Ritual ritual, Verse.TargetInfo targetInfo, RimWorld.RitualObligation forObligation, System.Collections.Generic.Dictionary`2[TKey,TValue] forcedForRole) [0x00108] in <95de19971c5d40878d8742747904cdcd>:0 
+  at Verse.Hediff_Labor+<GetGizmos>d__12.MoveNext () [0x000f4] in <95de19971c5d40878d8742747904cdcd>:0 
+  at Verse.Pawn_HealthTracker+<GetGizmos>d__61.MoveNext () [0x00095] in <95de19971c5d40878d8742747904cdcd>:0 
+  at Verse.Pawn+<GetGizmos>d__274.MoveNext () [0x00781] in <95de19971c5d40878d8742747904cdcd>:0 
+  at AnimalBehaviours.Pawn_GetGizmos_Patch+<Postfix>d__0.MoveNext () [0x0014a] in <c512655671804027b8acaa448dc39382>:0 
+  at System.Collections.Generic.List`1[T].InsertRange (System.Int32 index, System.Collections.Generic.IEnumerable`1[T] collection) [0x000db] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.Collections.Generic.List`1[T].AddRange (System.Collections.Generic.IEnumerable`1[T] collection) [0x00000] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at RimWorld.InspectGizmoGrid.DrawInspectGizmoGridFor (System.Collections.Generic.IEnumerable`1[T] selectedObjects, Verse.Gizmo& mouseoverGizmo) [0x000d7] in <95de19971c5d40878d8742747904cdcd>:0  currentSelectable: Otto
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Error (string)
+Verse.Log:ErrorOnce (string,int)
+RimWorld.InspectGizmoGrid:DrawInspectGizmoGridFor (System.Collections.Generic.IEnumerable`1<object>,Verse.Gizmo&)
+RimWorld.MainTabWindow_Inspect:DrawInspectGizmos ()
+RimWorld.InspectPaneUtility:ExtraOnGUI (RimWorld.IInspectPane)
+RimWorld.MainTabWindow_Inspect:ExtraOnGUI ()
+Verse.WindowStack:WindowStackOnGUI ()
+RimWorld.UIRoot_Play:UIRootOnGUI ()
+Verse.Root:OnGUI ()
+
+Exception drawing Corpse_Human8713: System.NullReferenceException: Object reference not set to an instance of an object
+  at VanillaGenesExpanded.VanillaGenesExpanded_PawnGraphicSet_ResolveAllGraphics_Patch.PostFix (Verse.PawnGraphicSet __instance) [0x00147] in <c512655671804027b8acaa448dc39382>:0 
+  at (wrapper dynamic-method) Verse.PawnGraphicSet.Verse.PawnGraphicSet.ResolveAllGraphics_Patch3(Verse.PawnGraphicSet)
+  at (wrapper dynamic-method) Verse.PawnRenderer.Verse.PawnRenderer.RenderPawnAt_Patch0(Verse.PawnRenderer,UnityEngine.Vector3,System.Nullable`1<Verse.Rot4>,bool)
+  at Verse.Corpse.DrawAt (UnityEngine.Vector3 drawLoc, System.Boolean flip) [0x0000b] in <95de19971c5d40878d8742747904cdcd>:0 
+  at Verse.Thing.Draw () [0x00015] in <95de19971c5d40878d8742747904cdcd>:0 
+  at Verse.ThingWithComps.Draw () [0x0000e] in <95de19971c5d40878d8742747904cdcd>:0 
+  at Verse.DynamicDrawManager.DrawDynamicThings () [0x000d8] in <95de19971c5d40878d8742747904cdcd>:0 
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Error (string)
+Verse.DynamicDrawManager:DrawDynamicThings ()
+Verse.Map:MapUpdate ()
+Verse.Game:UpdatePlay ()
+Verse.Root_Play:Update ()
+
+Exception drawing Bolten: System.NullReferenceException: Object reference not set to an instance of an object
+  at VanillaGenesExpanded.VanillaGenesExpanded_PawnGraphicSet_ResolveAllGraphics_Patch.PostFix (Verse.PawnGraphicSet __instance) [0x00147] in <c512655671804027b8acaa448dc39382>:0 
+  at (wrapper dynamic-method) Verse.PawnGraphicSet.Verse.PawnGraphicSet.ResolveAllGraphics_Patch3(Verse.PawnGraphicSet)
+  at (wrapper dynamic-method) Verse.PawnRenderer.Verse.PawnRenderer.RenderPawnAt_Patch0(Verse.PawnRenderer,UnityEngine.Vector3,System.Nullable`1<Verse.Rot4>,bool)
+  at Verse.Pawn_DrawTracker.DrawAt (UnityEngine.Vector3 loc) [0x00000] in <95de19971c5d40878d8742747904cdcd>:0 
+  at Verse.Pawn.DrawAt (UnityEngine.Vector3 drawLoc, System.Boolean flip) [0x00006] in <95de19971c5d40878d8742747904cdcd>:0 
+  at Verse.Thing.Draw () [0x00015] in <95de19971c5d40878d8742747904cdcd>:0 
+  at Verse.ThingWithComps.Draw () [0x0000e] in <95de19971c5d40878d8742747904cdcd>:0 
+  at Verse.DynamicDrawManager.DrawDynamicThings () [0x000d8] in <95de19971c5d40878d8742747904cdcd>:0 
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Error (string)
+Verse.DynamicDrawManager:DrawDynamicThings ()
+Verse.Map:MapUpdate ()
+Verse.Game:UpdatePlay ()
+Verse.Root_Play:Update ()
